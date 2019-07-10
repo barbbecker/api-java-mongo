@@ -50,7 +50,7 @@ db.animals.insert([
 
 - Você deverá inserir os dados do animal em formato JSON pelo postman:
 
-
+```
     {
         "name": "nome do animal",
         "breed": "raça",
@@ -59,6 +59,7 @@ db.animals.insert([
         "typeOfAnimal": "dog",
         "color": "cor do animal"
     }
+```
     
 - O número do chip não precisa ser informado pois é gerado automaticamente.
 
